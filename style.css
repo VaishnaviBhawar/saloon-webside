@@ -81,3 +81,41 @@ width: 100%;
   color: black;
     }
 
+.navigation
+{
+    background: #009688;
+    width: 200px;
+    height:100vh;
+    position:fixed;
+    right:0;
+    top:0;
+    z-index: 2;
+}
+nav ul li 
+
+{
+    list-style:none;
+    margin: 50px 20px;
+}
+nav ul li a
+{
+   text-decoration: none;
+   color: white;
+   font-weight: bold;
+}
+.menu-btn{
+    width: 50px;
+  height: 50px;
+  background-color: #009688;
+  text-align: center;
+  position: fixed;
+  right: 30px;
+  
+  top: 20px;z-index: 3;
+  cursor: pointer;border-radius: 3px;
+
+}
+.menu-btn img{
+    width: 20px;
+    margin: 15px;
+}
