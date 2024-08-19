@@ -5,6 +5,7 @@
     padding: 10px 0 20px;
     background-color: #efefef;
 }
+
 .about-us-img{
 position: absolute;
 bottom: 10%;
@@ -322,6 +323,9 @@ width: 100%;
     color: aliceblue;
     
 }   
+#navigation a:hover{
+    color: #005149;
+}
 
 /*feature*/
 #section2 {
