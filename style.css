@@ -599,7 +599,7 @@ margin-top: 5px;
 
 @media screen and (min-width:500px) and (max-width:780px) {
     body{
-        background-color: rgb(213, 98, 98);
+        background-color: rgb(255, 255, 255);
     }
     .font{
         font-size: 20px ;
